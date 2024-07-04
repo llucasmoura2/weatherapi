@@ -1,6 +1,6 @@
 import requests
 
-class ApiWeather():
+class ApiWeather:
     
     def __init__(self):
         self.__base_url = 'http://api.weatherapi.com/v1/current.json'
