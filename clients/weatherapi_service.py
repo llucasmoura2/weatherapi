@@ -19,6 +19,7 @@ class ApiWeather():
             'Horario': data.get('location', {}).get('localtime',{}),
         }
 
+# https://www.weatherapi.com/
 
     
    
